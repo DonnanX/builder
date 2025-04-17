@@ -6,12 +6,12 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/anthropics/anthropic-sdk-go v0.2.0-alpha.13
 	github.com/casdoor/casdoor-go-sdk v1.5.0
-	github.com/go-sql-driver/mysql v1.9.1
-	github.com/goplus/yap v0.8.3 //gop:class
+	github.com/go-sql-driver/mysql v1.9.2
+	github.com/goplus/yap v0.8.4 //gop:class
 	github.com/joho/godotenv v1.5.1
 	github.com/qiniu/go-cdk-driver v0.1.1
 	github.com/qiniu/go-sdk/v7 v7.25.3
-	github.com/qiniu/x v1.13.12
+	github.com/qiniu/x v1.13.17
 	github.com/stretchr/testify v1.10.0
 	gocloud.dev v0.36.0 // indirect
 	gorm.io/driver/mysql v1.5.7
